@@ -1,4 +1,5 @@
-Run **generate_dataset.py** to generate a dataset of pair json-extyz file.
+Run **generate_dataset.py** to generate a dataset of pair json-extyz file.\n
+
 **file_analyzer.py** contains a function of backward converting extyz->json.
 Example:
 ```

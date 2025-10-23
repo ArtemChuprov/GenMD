@@ -1,0 +1,9 @@
+# Ignore all Jupyter notebooks
+*.ipynb
+
+# Ignore everything inside any folder named "data"
+generated_dataset/
+
+# deepmd-kit/
+__pycache__/
+# **/deepmd-kit/

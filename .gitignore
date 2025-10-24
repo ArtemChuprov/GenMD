@@ -1,5 +1,5 @@
 # Ignore all Jupyter notebooks
-*.ipynb
+# *.ipynb
 
 # Ignore everything inside any folder named "data"
 generated_dataset/
